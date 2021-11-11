@@ -9,6 +9,8 @@ public class GitHub {
 		public void Clea2n()
 		{
 			System.out.println("Test case2");
+			System.out.println("hello");
 		}
 		}
 }
+
