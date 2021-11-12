@@ -9,6 +9,10 @@ public class GitHub {
 		public void Clea2n()
 		{
 			System.out.println("Test case2");
+			System.out.println("hello");
+			System.out.println("hi ill commit first");
+			
 		}
 		}
 }
+
